@@ -38,7 +38,7 @@ This is the "Delete Book" page in the Library Management System:
 ### 3. Clone Repository
 To clone this repository, use the following command:
 ```bash
-git clone https://github.com/vinitk09/Advance-Java.git
+git clone https://github.com/viveksinghrathor/AdvJava.git
 ```
 ### 4. Database Intialization
 ```markdown
